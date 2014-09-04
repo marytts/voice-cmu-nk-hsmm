@@ -1,0 +1,14 @@
+voice {
+    name 'cmu-nk-hsmm'
+    language 'te'
+    gender 'female'
+    type 'hsmm'
+    description 'temporary'
+    samplingRate 16000
+}
+
+license {
+    name 'temporary'
+    shortName 'temporary'
+    url 'temporary'
+}
