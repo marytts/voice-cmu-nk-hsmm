@@ -1,3 +1,5 @@
+apply plugin: 'marytts-voicebuilding'
+
 voice {
     name 'cmu-nk-hsmm'
     language 'te'
