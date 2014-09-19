@@ -1,5 +1,7 @@
 apply plugin: 'marytts-voicebuilding'
 
+group "de.dfki.mary"
+
 voice {
     name 'cmu-nk-hsmm'
     language 'te'
