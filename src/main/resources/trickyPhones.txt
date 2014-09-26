@@ -1,0 +1,15 @@
+_ te0
+a: te1
+d: te2
+d:h te3
+l: te4
+n: te5
+nd~ te6
+ng~ te7
+nj~ te8
+qs~ te9
+r: te10
+rx~ te11
+t: te12
+t:h te13
+t:ra te14
