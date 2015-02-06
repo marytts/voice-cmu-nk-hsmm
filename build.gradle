@@ -2,12 +2,3 @@ apply plugin: 'de.dfki.mary.voicebuilding'
 
 group 'de.dfki.mary'
 version '5.1.2'
-
-voice {
-    name 'cmu-nk-hsmm'
-    language 'te'
-    gender 'female'
-    type 'hsmm'
-    description 'A female Telugu hidden semi-Markov model voice built from voice recordings provided by IIIT Hyderabad and Carnegie Mellon University'
-    samplingRate 16000
-}
