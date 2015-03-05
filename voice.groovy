@@ -1,6 +1,8 @@
 voice {
     name = 'cmu-nk-hsmm'
-    language = 'te'
+    locale {
+        language = 'te'
+    }
     gender = 'female'
     type = 'hsmm'
     description = 'A female Telugu hidden semi-Markov model voice built from voice recordings provided by IIIT Hyderabad and Carnegie Mellon University'
